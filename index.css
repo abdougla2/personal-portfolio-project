@@ -1,0 +1,100 @@
+.header {
+    display: flex;
+    justify-content: center;
+    border-bottom: solid;
+    padding: 10px;
+    border-bottom-width: .5px;
+}
+
+h1 {
+    font-family: serif;
+    font-family: didot;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+a {
+    color: black;
+    font-family: serif;
+    font-family: didot;
+}
+
+a:hover {
+    color: black;
+    border-bottom-color: black;
+}
+
+.bgContainer {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#pic1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 550px;
+}
+
+.centered {
+position: absolute;
+  top: 45%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
+
+p {
+    font-size: 60px;
+    font-family: serif;
+    font-family: didot;
+    f
+}
+
+#seeYou {
+    margin-top: -60px;
+}
+
+#title {
+    font-size: 20px;
+}
+
+button {
+    font-family: serif;
+    font-family: didot;
+}
+
+#pic2 {
+    top: 0;
+    left: 0;
+    height: 550px;
+    width: 550px;
+    position: absolute;
+    margin-left: 840px;
+}
+
+.bottomTabs{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 35px;
+}
+
+#one {
+    font-family: serif;
+    font-family: didot;
+}
+
+#three {
+    font-family: Andale Mono;
+}
+
+
+
+
+
